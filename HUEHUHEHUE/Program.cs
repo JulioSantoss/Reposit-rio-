@@ -10,7 +10,7 @@ namespace HUEHUHEHUE
     {
         static void Main(string[] args)
         {
-            string teste;
+            string teste = "";
         }
     }
 }
